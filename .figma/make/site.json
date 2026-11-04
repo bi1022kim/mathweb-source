@@ -1,0 +1,10 @@
+{
+  "description": "This engaging learning app enhances math skills for students through interactive lessons and personalized practice, making learning enjoyable and effective.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
